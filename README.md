@@ -1,7 +1,7 @@
 # Optimal Smart Switch Deployment with Tri-layer Synergized Resilience Enhancement Considering Multiple Heterogeneous Faults
 
 ## Introduction
-This repository contains datasets and appendices related to the paper titled **"Optimal Smart Switch Deployment with Tri-layer Synergized Resilience Enhancement Considering Multiple Heterogeneous Faults"** by Ziyao Wang, Tao Yu, Pengyi Fan, and Zhiqiang Pan, submitted to the IEEE Transactions on Smart Grid. The work presents detailed load data and topology data for a 40-bus system and a real 126-node distribution network in Zhuhai Hengqin District.
+This repository contains datasets and appendices related to the paper titled **"Optimal Smart Switch Deployment with Tri-layer Synergized Resilience Enhancement Considering Multiple Heterogeneous Faults"** by Ziyao Wang, Tao Yu, Pengyi Fan, and Zhenning Pan, submitted to the IEEE Transactions on Smart Grid. The work presents detailed load data and topology data for a 40-bus system and a real 126-node distribution network in Zhuhai Hengqin District.
 
 ## Datasets
 - **40-bus System Data**: Includes detailed load data and network topology for the 40-node distribution network.
