@@ -9,13 +9,14 @@ This repository contains datasets and appendices related to the paper titled **"
 
 ## Figures
 ### Figure 1: Schematic Diagram of Real Urban 40-node Distribution Network System
-![1](https://github.com/user-attachments/assets/73e4ac21-9388-48de-92d8-a62a24af5afe)
+![Fig5](https://github.com/user-attachments/assets/18a3cc17-c01d-4961-85dc-99d6296a5109)
+
 
 ### Figure 2: Schematic Diagram of Real Urban 126-node Distribution Network System
-![2](https://github.com/user-attachments/assets/57719515-af94-4de2-9535-21ccaf6d5639)
+![Fig9](https://github.com/user-attachments/assets/73e80d5d-961b-4b0c-a234-7cf4281f8390)
 
 ### Figure 3: Switch Deployment Strategies for the 40-node Distribution Network in PI, DD, RI, and SR Phases
-![Case_4_Fault_Scenario1](https://github.com/user-attachments/assets/c178a9be-74b0-48ff-88a2-be76f960c4c3)
+![Case4_Fault_Scenario_14](https://github.com/user-attachments/assets/5be972bc-bd65-4596-8c02-ae00dc1bca1c)
 
 ## Access
 You can access the data and additional information at the following link: 
