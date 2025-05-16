@@ -23,5 +23,9 @@ You can access the data and additional information at the following link:
 
 [GitHub Repository]https://github.com/ZiyaoWang100/TSG_Optimal-Smart-Switch-Deployment/tree/main
 
+## Citation
+If you use this work, please cite:
+Z. Wang, T. Yu, P. Fan, Z. Pan, and W. Chen, "Optimal Smart Switch Deployment with Tri-Layer Synergized Resilience Enhancement Considering Multiple Heterogeneous Faults," IEEE Transactions on Smart Grid, 2025, DOI: 10.1109/TSG.2025.3569999.
+
 ## Contact
 For further information or questions, please contact the authors.
