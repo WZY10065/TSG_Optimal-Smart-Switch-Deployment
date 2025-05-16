@@ -19,9 +19,8 @@ This repository hosts datasets and supplementary materials for the paper **"Opti
 ![Case4_Fault_Scenario_14](https://github.com/user-attachments/assets/5be972bc-bd65-4596-8c02-ae00dc1bca1c)
 
 ## Access
-You can access the data and additional information at the following link: 
-
-[GitHub Repository]https://github.com/ZiyaoWang100/TSG_Optimal-Smart-Switch-Deployment/tree/main
+You can access the paper in the following link:
+https://ieeexplore.ieee.org/document/11004034
 
 ## Citation
 If you use this work, please cite:
